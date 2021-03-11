@@ -2,4 +2,4 @@
 
 [KODI Homeage](http://www.kodi.tv)
 
-Demo REPO
+[Demo REPO(https://github.com/vladoem/kodi/blob/master/repo.md)]
